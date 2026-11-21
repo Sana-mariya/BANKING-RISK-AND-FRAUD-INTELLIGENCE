@@ -1,0 +1,6 @@
+BANKING FRAUD ANALYTICS PROJECT
+--------------------------------
+Total Transactions: 283726
+Genuine Transactions: 283253
+Fraud Transactions: 473
+Fraud Percentage: 0.17%

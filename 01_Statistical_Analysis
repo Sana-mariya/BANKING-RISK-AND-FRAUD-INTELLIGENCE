@@ -1,0 +1,56 @@
+import pandas as pd
+from pathlib import Path # i have used this pathlib library because im not able to load the data so i took help of chatgpt to locate my file 
+
+# Find the dataset
+folder = Path(__file__).resolve().parent.parent # this pathlib helps me to find the location of the file 
+
+files = list(folder.rglob("*.csv"))
+
+for file in files:
+    if "cleaned" in file.name.lower() and "credit" in file.name.lower():
+        df = pd.read_csv(file)
+        break
+
+# Statistical Analysis
+print("STATISTICAL ANALYSIS")
+
+# 1. Mean IT calculate avarage
+print("\nMean Transaction Amount:")
+print(df["Amount"].mean())
+
+# 2. Median it finds middle value
+print("\nMedian Transaction Amount:")
+print(df["Amount"].median())
+
+# 3. Standard Deviation measures variations
+print("\nStandard Deviation:")
+print(df["Amount"].std())
+
+# 4. Minimum and Maximum find smallest and largest values
+print("\nMinimum Amount:")
+print(df["Amount"].min())
+
+print("\nMaximum Amount:")
+print(df["Amount"].max())
+
+# 5. Fraud and Genuine Transactions
+print("\nFraud Transaction Count:")
+print(df["Class"].value_counts())
+
+# 6. Average Amount by Transaction Class 
+print("\nFraud vs Genuine Amount:")
+print(df.groupby("Class")["Amount"].mean()) # group by separates data in to groups
+
+# 7. Outlier Detection
+Q1 = df["Amount"].quantile(0.25) # quantile finds percentile values
+Q3 = df["Amount"].quantile(0.75)
+
+IQR = Q3 - Q1 #Q1 is 25th percentile Q3 is 75th percentile IQR means diffrence between Q3 AND Q1 
+upper_limit = Q3 + 1.5 * IQR 
+
+outliers = df[df["Amount"] > upper_limit] # outliers used because to identify unusual high transaction amounts 
+
+print("\nTotal Amount Outliers:")
+print(len(outliers))
+
+print("\nStatistical Analysis Completed!")

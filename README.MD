@@ -1,0 +1,34 @@
+# Banking Risk & Fraud Analytics
+
+## Project Overview
+This project analyses credit card transactions to identify fraudulent activities and understand transaction patterns.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- VS Code
+
+## Dataset
+Credit Card Fraud Detection Dataset.
+
+## Project Work
+1. Loaded the credit card dataset.
+2. Checked missing values and duplicates.
+3. Removed duplicate records.
+4. Analysed genuine and fraudulent transactions.
+5. Calculated fraud percentage.
+6. Created charts to compare transactions.
+7. Generated a fraud summary report.
+
+## Key Findings
+- Total Transactions: 283,726
+- Genuine Transactions: 283,253
+- Fraud Transactions: 473
+- Fraud Percentage: 0.17%
+
+## Conclusion
+The project helped identify fraudulent transaction patterns and understand the difference between genuine and fraudulent transactions.
+
+## Created By
+Sana

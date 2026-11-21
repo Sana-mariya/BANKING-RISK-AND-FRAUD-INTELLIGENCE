@@ -1,0 +1,50 @@
+BANKING FRAUD ANALYTICS PROJECT
+
+Project Title: Banking Risk & Fraud Intelligence Analytics System
+
+1. Project Introduction
+
+The main objective of this project is to analyse credit card transactions and identify fraudulent transactions using Python, SQL and data analysis techniques.
+
+2. Dataset Description
+
+I used the Credit Card Fraud Detection dataset for this project. I took the dataset from kaggle.
+
+The dataset contains the following columns:
+
+- Time – Transaction time in seconds.
+- Amount – Transaction amount.
+- V1 to V28 – Transformed transaction features.
+- Class – 0 represents genuine transactions and 1 represents fraudulent transactions.
+
+3. Tools and Technologies Used
+
+- Python
+- Pandas
+- MySQL
+- Excel
+- VS Code
+
+4. Python Analysis Completed
+
+1. Data Cleaning
+2. Basic Data Analysis
+3. Statistical Analysis
+4. Fraud Pattern Analysis
+5. Feature Correlation Analysis
+6. Average Transaction Amount Comparison
+7. Transaction Amount Range Analysis
+
+5. Key Findings
+
+- Average genuine transaction amount: 88.41
+- Average fraudulent transaction amount: 123.87
+- Fraudulent transactions have a higher average amount than genuine transactions in this dataset.
+- Statistical analysis was performed to identify unusual transaction amounts.
+- Fraud and genuine transactions were compared using the Class column.
+
+6. Project Conclusion
+
+This project helped me understand how Python and SQL can be used to analyse banking transaction data.
+By performing data cleaning, statistical analysis and fraud pattern analysis, I identified differences between genuine and fraudulent transactions.
+The project helped me improve my practical knowledge of data analysis and understand how data can support fraud detection.
