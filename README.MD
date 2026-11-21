@@ -29,6 +29,9 @@ Credit Card Fraud Detection Dataset.
 
 ## Conclusion
 The project helped identify fraudulent transaction patterns and understand the difference between genuine and fraudulent transactions.
+## cleanedcredit_card link (https://1drv.ms/x/c/45914ef04ba62426/IQCEbfzQk7PCSZBxHDqznayIAStM-mNVLlboNBVuSLmCShw?e=nWU699)
+## creditcard_csv link (https://1drv.ms/x/c/45914ef04ba62426/IQBa97y7oUIHR5FxXAm5LRKLAWlSVUMPnDHExhVGN9sr9ag?e=1Rb8y8)
+## fraud_summary link (https://1drv.ms/x/c/45914ef04ba62426/IQC66JywHkl4RqO-zdtuE1srAdiEE0Hf67wEVfITUotQQUw?e=VFrMn5)
 
 ## Created By
 Sana
