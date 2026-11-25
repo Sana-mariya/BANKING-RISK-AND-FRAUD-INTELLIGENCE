@@ -36,7 +36,7 @@ The project helped identify fraudulent transaction patterns and understand the d
 ## fraud_summary link 
 (https://drive.google.com/file/d/1d2OmJfFWWylrndLllljj8n4t_u3Veq71/view?usp=sharing)
 ## EXCEL DASHBOARD LINK
-(https://docs.google.com/spreadsheets/d/17ZrzBV8Zu-5ljvycBPfXiJGFr_2VD_z8/edit?usp=sharing&ouid=111766149931385187275&rtpof=true&sd=true)
+(https://drive.google.com/uc?export=download&id=17ZrzBV8Zu-5ljvycBPfXiJGFr_2VD_z8)
 ## SCREENSHOTS 
 (https://drive.google.com/file/d/1HHeRh4Vq8wjX8MDtzkn8-uxZpx13l1Pr/view?usp=sharing)      
 (https://drive.google.com/file/d/1SX-5oq-QOUsndtjY8v6NnShifBl-jULG/view?usp=sharing)
