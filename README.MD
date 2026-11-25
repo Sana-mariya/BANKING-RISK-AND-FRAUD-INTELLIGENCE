@@ -29,12 +29,10 @@ Credit Card Fraud Detection Dataset.
 
 ## Conclusion
 The project helped identify fraudulent transaction patterns and understand the difference between genuine and fraudulent transactions.
-## cleanedcredit_card link (https://1drv.ms/x/c/45914ef04ba62426/IQCEbfzQk7PCSZBxHDqznayIAStM-mNVLlboNBVuSLmCShw?e=nWU699)
-## creditcard_csv link (https://1drv.ms/x/c/45914ef04ba62426/IQBa97y7oUIHR5FxXAm5LRKLAWlSVUMPnDHExhVGN9sr9ag?e=1Rb8y8)
-## fraud_summary link (https://1drv.ms/x/c/45914ef04ba62426/IQC66JywHkl4RqO-zdtuE1srAdiEE0Hf67wEVfITUotQQUw?e=VFrMn5)
-
-
-
-## EXCEL DASHBOARD LINK (https://1drv.ms/x/c/1e6261e0d486aea8/IQA_ZqmC2PVrRoJhySBawXKzASPxjfQGhlkciWBzw335U1s?e=WIPYqp)
+## cleanedcredit_card link (https://drive.google.com/file/d/1DPv6VOMiNuOHawOfqFKPjICptYctbbPJ/view?usp=sharing)
+## creditcard_csv link (https://drive.google.com/file/d/1Gt5PXrhcp9pl1hOIBTohKsIirlu5w0iA/view?usp=sharing)
+## fraud_summary link (https://drive.google.com/file/d/1d2OmJfFWWylrndLllljj8n4t_u3Veq71/view?usp=sharing)
+## EXCEL DASHBOARD LINK (https://docs.google.com/spreadsheets/d/1mNoVT1ZPlDzrH8Rs3rQdt_cIuNDZMWN4/edit?usp=drive_link&ouid=105562442597903282875&rtpof=true&sd=true)
+## SCREENSHOTS (https://drive.google.com/file/d/1HHeRh4Vq8wjX8MDtzkn8-uxZpx13l1Pr/view?usp=sharing) (https://drive.google.com/file/d/1SX-5oq-QOUsndtjY8v6NnShifBl-jULG/view?usp=sharing)(https://drive.google.com/file/d/1ZSs0GN1TLR_PXnBfUJSKqiN2p456iSyh/view?usp=sharing)
 ## Created By
 Sana
